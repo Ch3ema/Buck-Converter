@@ -4,8 +4,8 @@ A hand-calculated, simulated, and laid-out synchronous-less buck converter power
 
 **Scope: this is the power stage only.** It is open loop and requires an external floating gate drive to operate. See [Limitations](#limitations) before building it.
 
-<img width="1000" height="632" alt="Screenshot 2026-09-14 152633" src="https://github.com/user-attachments/assets/175a31df-5013-4422-bec4-b890eba5406b" />
-<img width="1596" height="744" alt="Screenshot 2026-09-14 152742" src="https://github.com/user-attachments/assets/c0df2f15-0e95-4ee3-99ed-9a4208bfb56d" />
+<img width="400"  alt="Screenshot 2026-09-14 152633" src="https://github.com/user-attachments/assets/175a31df-5013-4422-bec4-b890eba5406b" />
+<img width="400" alt="Screenshot 2026-09-14 152742" src="https://github.com/user-attachments/assets/c0df2f15-0e95-4ee3-99ed-9a4208bfb56d" />
 
 
 ## Specifications
@@ -118,7 +118,7 @@ This matches the simulated 4.75 V. In a closed-loop design the feedback network 
 
 Two-layer board, through-hole, with a ground pour on the back layer.
 
-<img width="1298" height="746" alt="Screenshot 2026-09-14 152523" src="https://github.com/user-attachments/assets/5c7cdc3b-993a-47b3-9373-449b34c56b36" />
+<img width="400" alt="Screenshot 2026-09-14 152523" src="https://github.com/user-attachments/assets/5c7cdc3b-993a-47b3-9373-449b34c56b36" />
 
 **Layout priorities, in order:**
 
