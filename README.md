@@ -68,6 +68,7 @@ C = 0.6 / (8 × 300,000 × 0.05)
 C = 5 µF
 ```
 
+
 Note that `ΔI_L` and `ΔV_out` are **design choices**, not calculated quantities. Everything else follows from them algebraically.
 
 ---
